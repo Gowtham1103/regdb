@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri:  mongodb+srv://root:log2017g@cluster0.zoetehw.mongodb.net/SpringSecurity
+      database: SpringSecurity
+      host: mongo-db-backend
+      port: 27017
